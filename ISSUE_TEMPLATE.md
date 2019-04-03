@@ -1,4 +1,4 @@
-Important notice: Official NASA WorldWind development is suspended, beginning April 5th, 2019. Issues will not be attended by the maintainers in the foreseeable future, your are welcome to raise this issue anyway for the benefit of the community for the benefit of the community.
+Important notice: Official NASA WorldWind development is suspended, beginning April 5th, 2019. Issues will not be attended by the maintainers in the foreseeable future. You are welcome to raise this issue anyway for the benefit of the community.
 
 More information about the suspension and general guidance into alternative geospatial data services that may be used by WorldWind at the following link:
  
